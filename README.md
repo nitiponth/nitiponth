@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitiponth
 - 👀 I’m interested in Full-Stack Developer
-- 🌱 I’m currently learning about React and NodeJS
+- 🌱 I’m currently learning about React Ecosystem
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => nitiponth@outlook.com
 
